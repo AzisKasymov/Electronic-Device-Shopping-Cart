@@ -8,7 +8,7 @@ class Smartphone(Device):
 
     def display_info(self):
         super().display_info()
-        print(f"Screen Size: {self.screen_size} inches, Battery Life: {self.battery_life} hours")
+        print(f"Screen Size: {self.screen_size} sm, Battery percent: {self.battery_life} hours")
 
     def make_call(self):
         print(f"Making a call from {self.name}")
