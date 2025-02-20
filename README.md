@@ -23,3 +23,6 @@ View available devices.
 Add/remove items from cart.
 
 Checkout process.
+UML diagrams 
+
+![](https://raw.githubusercontent.com/AzisKasymov/Electronic-Device-Shopping-Cart/refs/heads/master/UML%20diagrams.png)
